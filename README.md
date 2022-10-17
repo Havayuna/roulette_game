@@ -38,3 +38,7 @@ The next step is installing the Python package installer pip ([click here](https
 ## Instructions
 
 The game starts with a brief description of the rules and asks for the user to choose a number. If the number is in a valid range (between 0 and 49) then it asks to input the bet value for the current round. The second output must be lower than the initial value given to the user.
+
+## Credits
+
+This is an exercise made by [OpenClassrooms' course 'Learn Python Basics for Data Analysis'](https://openclassrooms.com/en/courses/2304731-learn-python-basics-for-data-analysis).
